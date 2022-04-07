@@ -1,0 +1,7 @@
+nltk
+cryptography
+torchtext>=0.9.0
+torch
+func_timeout
+otter-grader==1.0.0
+transformers

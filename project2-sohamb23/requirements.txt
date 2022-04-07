@@ -1,0 +1,5 @@
+torch
+torchtext>=0.9.0
+matplotlib
+otter-grader==1.0.0
+wget
