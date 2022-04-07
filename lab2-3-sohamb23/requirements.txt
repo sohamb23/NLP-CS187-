@@ -1,0 +1,5 @@
+otter-grader==1.0.0
+torch
+wget
+tqdm>=4.29.1
+ipywidgets
